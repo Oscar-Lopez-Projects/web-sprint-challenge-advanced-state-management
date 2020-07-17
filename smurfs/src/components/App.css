@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+.smurfApp{
+  background: rgba(61, 123, 238, 0.171);
+  width:50%;
+  margin: 0 auto;
+}
